@@ -27,22 +27,18 @@ Or install it yourself as:
 ## Usage
 
 Install site-wide:
-app/assets/javascripts/application.js
 ```ruby
+# app/assets/javascripts/application.js
 //= require aframe
 ```
 
 or by view:
-app/views/layouts/application.html.erb
 ```erb
+# app/views/layouts/application.html.erb
 <head>
   ...
   <%= javascript_include_tag 'aframe.min.js' %>
 </head>
-
-<body>
-  <%= yield %>
-</body>
 </html>
 ```
 
