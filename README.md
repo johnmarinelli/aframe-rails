@@ -1,8 +1,12 @@
-# Aframe::Rails
+# Aframe Gem for Rails
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/aframe/rails`. To experiment with that code, run `bin/console` for an interactive prompt.
+A wrapper for the [Aframe](https://aframe.io/ "Aframe") framework.
 
-TODO: Delete this and the text above, and describe your gem
+## Version
+
+The version of this gem follows the Aframe version.
+
+Currently: Version 0.6.1
 
 ## Installation
 
