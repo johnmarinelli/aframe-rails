@@ -27,8 +27,8 @@ Or install it yourself as:
 ## Usage
 
 Install site-wide:
-```ruby
-# app/assets/javascripts/application.js
+```javascript
+// app/assets/javascripts/application.js
 //= require aframe
 ```
 
