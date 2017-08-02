@@ -34,7 +34,7 @@ Install site-wide:
 
 or by view:
 ```erb
-# app/views/layouts/application.html.erb
+<!-- app/views/layouts/application.html.erb -->
 <head>
   ...
   <%= javascript_include_tag 'aframe.min.js' %>
