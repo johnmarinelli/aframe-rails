@@ -6,7 +6,7 @@ A wrapper for the [Aframe](https://aframe.io/ "Aframe") framework.
 
 The version of this gem follows the Aframe version.
 
-Currently: Version 0.6.1
+Currently: Version 0.7.1
 
 ## Installation
 
